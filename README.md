@@ -6,3 +6,4 @@ Installation is easy, just drag and drop the files into the resources directory 
 
 # Need help? Feeling lost?
 Feel free to contact us on our Discord server for any help or support here! https://discord.gg/BS3mQWBxpA
+ 
